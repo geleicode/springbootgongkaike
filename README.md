@@ -178,8 +178,8 @@ public class UserController{
    测试该系统主要为了验证系统的功能模块是否满足我们最初的设计理念，验证各个功能模块逻辑是否正确，此系统不需要过于复杂的逻辑处理，以便于使用者操作。经过全面的测试，Java系统在功能、性能、安全性和稳定性方面均表现良好，基本符合设计要求和用户需求。虽然测试中发现了一些问题，但通过改进和优化，系统的整体质量和用户体验得到了显著提升。后续将继续进行持续的监测和优化，确保系统在实际应用中的高效稳定运行。
 
 ### 项目报告：
-<img width="2880" height="1628" alt="image" src="https://github.com/user-attachments/assets/0cf8674b-eaf4-4b4a-ae53-745bb562cdb9" />
-<img width="2880" height="1628" alt="image" src="https://github.com/user-attachments/assets/636f90cf-8c8b-4185-bcc2-654ad881321b" />
+<img width="1680" height="867" alt="image" src="https://github.com/user-attachments/assets/c172cceb-ad91-4233-b4e0-932e2f29c752" />
+
 
 
 
